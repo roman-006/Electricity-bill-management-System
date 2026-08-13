@@ -1,0 +1,19 @@
+=========================================
+     ELECTRICITY BILL PAYMENT RECEIPT
+=========================================
+Bill No.        : 1
+Date            : 2026-08-02
+-----------------------------------------
+Consumer ID     : 1
+Consumer Name   : hari bahadur
+Address         : dharan-3,sunsari
+Category        : Residential
+-----------------------------------------
+Units Consumed  : 53
+Bill Amount     : Rs. 321.00
+Amount Paid     : Rs. 321.00
+Balance Due     : Rs. 0.00
+Status          : PAID
+=========================================
+     Thank you for using our service.
+=========================================
